@@ -13,12 +13,15 @@
     'SALAM GÜLÜM', 
     'GÖZƏLLİYİNİN YANINDA',
     'GÖZƏLLİYİNİN YANINDA',
-    'GÜLLƏR', 
+    'GÜLLƏR',
+    'GÜLLƏR',
     'SÖNÜK QALIR', 
     'SÖNÜK QALIR', 
     'ÇOX GÖZƏLSƏN', 
+    'ÇOX GÖZƏLSƏN',
     'SƏNİ ÇOX AMA', 
     'SƏNİ ÇOX AMA',
+    'ÇOX SEVİRƏM ⋆｡˚♡', 
     'ÇOX SEVİRƏM ⋆｡˚♡', 
     'YAXŞI Kİ VARSAN ❤️', 
   ]
@@ -216,4 +219,5 @@
     init()  
 
 })(window)
+
 
