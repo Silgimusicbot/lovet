@@ -12,10 +12,13 @@
   let texts = [
     'SALAM GÜLÜM', 
     'GÖZƏLLİYİNİN YANINDA',
+    'GÖZƏLLİYİNİN YANINDA',
     'GÜLLƏR', 
+    'SÖNÜK QALIR', 
     'SÖNÜK QALIR', 
     'ÇOX GÖZƏLSƏN', 
     'SƏNİ ÇOX AMA', 
+    'SƏNİ ÇOX AMA',
     'ÇOX SEVİRƏM ⋆｡˚♡', 
     'YAXŞI Kİ VARSAN ❤️', 
   ]
@@ -213,3 +216,4 @@
     init()  
 
 })(window)
+
