@@ -10,7 +10,7 @@
   const CANVASID = 'canvas'
 
   let texts = [
-    'SALAM NECƏSƏN?', 
+    'SALAM GÜLÜM', 
     'GÖZƏLLİYİNİN YANINDA',
     'GÜLLƏR', 
     'SÖNÜK QALIR', 
@@ -211,4 +211,5 @@
   
   
     init()  
+
 })(window)
